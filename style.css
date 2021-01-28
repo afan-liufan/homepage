@@ -3368,7 +3368,7 @@ ul {
 }
 
 a {
-	color: #fff;
+	color: #00ffff;
 	text-decoration: none
 }
 
@@ -3381,7 +3381,7 @@ body {
 	overflow: hidden;
 	height: 100%;
 	font-size: 100%;
-	background: url(../img/icloud.png) repeat fixed !important;
+	background: url(./icloud.png) repeat fixed !important;
 	background-attachment: fixed;
 	overflow: hidden;
 	font-family: 'Helvetica Neue', 'Microsoft Yahei', SimHei, sans-serif
@@ -3411,15 +3411,15 @@ body {
 }
 
 #logo img {
-	width: 121px
+	width: 141px
 }
 
 #logo h1 {
-	color: #000000;
+	color: #fff;
 	text-align: center;
-	text-shadow: 0 0 10px #ffffff;
-	font-weight: 160;
-	font-size: 34px;
+	text-shadow: 0 0 10px #111;
+	font-weight: 200;
+	font-size: 36px;
 	font-family: MyriadSetPro-Thin;
 	margin-top: 15px
 }
